@@ -1,0 +1,1 @@
+class Students(var rollNumber: String, var name: String, var std: String, var marks: Int)
